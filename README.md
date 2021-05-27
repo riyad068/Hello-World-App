@@ -1,6 +1,1 @@
-Ruby on Rails 6
-
----Hello World
-
-
-GIT Version Control SYstem
+First test commit on the Hello World Application
